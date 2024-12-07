@@ -46,11 +46,15 @@ This connector supports the following operations:
   * The connector now supports filenames with characters such as spaces (`folder 1/my file.csv`).
   * The connector now supports binary content such as PDF files.
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 *Note:* Large files might run into timeout issues.([Microsoft FAQ: Script must be finished within 5 seconds](https://learn.microsoft.com/en-us/connectors/custom-connectors/write-code#custom-code-faq))
 =======
     *Note: Large files might run into timeout issues.([Microsoft FAQ: Script must be finished within 5 seconds](https://learn.microsoft.com/en-us/connectors/custom-connectors/write-code#custom-code-faq))
 >>>>>>> 46b6ba01 (- readme updated)
+=======
+    *Note: Large files might run into timeout issues.([Microsoft FAQ: Script must be finished within 5 seconds](https://learn.microsoft.com/en-us/connectors/custom-connectors/write-code#custom-code-faq))
+>>>>>>> 46b6ba01a5eab6ba80d0812fb1d6d9fd2c6ad7ce
 
 ## AWS Signature Version 4
 
